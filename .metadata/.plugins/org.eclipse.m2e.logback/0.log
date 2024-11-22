@@ -2303,3 +2303,4 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2024-11-08 20:15:46,453 [Worker-29: Launching api-gateway-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Softwares\Eclipse\plugins\com.google.guava.failureaccess_1.0.2.jar
 2024-11-08 20:15:46,455 [Worker-29: Launching api-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\camila.mea\Downloads\ParadLingProg_202402_TurmaC-main (1)\ParadLingProg_202402_TurmaC-main\microservices\api-gateway-service":
 2024-11-08 20:15:46,456 [Worker-29: Launching api-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always spring-boot:build-image -DskipTests
+2024-11-21 19:07:14,705 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
